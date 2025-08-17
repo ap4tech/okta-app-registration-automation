@@ -23,7 +23,7 @@ Some apps don’t have pre-built connectors in Okta. This script acts as the bri
 [SSO SAML Config in Okta.png](https://github.com/ap4tech/okta-app-registration-automation/blob/main/SSO%20SAML%20Config%20in%20Okta.png)
 
 - PowerShell Script Example:  
-  ![PowerShell Script](./screenshots/powershell-script.png)
+[  ![PowerShell Script](./screenshots/powershell-script.png)](https://github.com/ap4tech/okta-app-registration-automation/blob/main/Powershell%20app%20register%20script.png)
 
 ---
 
