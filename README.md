@@ -2,7 +2,7 @@
 
 ## What I Did
 1. Registered a sample SAML app in Okta.  
-2. Wrote a PowerShell script (`provision-saml-app.ps1`) to provision users to the app through Okta’s API.  
+2. Wrote a PowerShell script to provision users to the app through Okta’s API.  
 3. Verified that users provisioned in Okta (via SailPoint) were correctly pushed into the SAML app.  
 
 **Problem Solved:**  
