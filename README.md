@@ -5,7 +5,7 @@
 2. Wrote a PowerShell script to provision users to the app through Okta’s API.  
 3. Verified that users provisioned in Okta (via SailPoint) were correctly pushed into the SAML app.  
 
-**Problem Solved:**  
+## Problem Solved: 
 Some apps don’t have pre-built connectors in Okta. This script acts as the bridge, allowing automatic user provisioning via Okta’s API.  
 
 ---
