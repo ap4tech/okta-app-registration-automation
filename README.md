@@ -28,5 +28,4 @@ Some apps don’t have pre-built connectors in Okta. This script acts as the bri
 ---
 
 ## Files:
-- **scripts/provision-saml-app.ps1** → Main PowerShell provisioning script.  
-- **screenshots/** → Setup and demo screenshots.  
+
