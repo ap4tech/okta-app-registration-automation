@@ -28,4 +28,4 @@ Some apps don’t have pre-built connectors in Okta. This script acts as the bri
 ---
 
 ## Files:
-
+https://github.com/ap4tech/okta-app-registration-automation/blob/main/%23%20Okta%20%E2%86%92%20Custom%20App%20Provisioning%20Script.ps1
