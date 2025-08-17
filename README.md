@@ -20,7 +20,7 @@ Some apps don’t have pre-built connectors in Okta. This script acts as the bri
 
 ## Screenshots:
 - Okta SAML App Configuration:  
-  ![Okta SAML Config](./screenshots/okta-saml-config.png)
+SSO SAML Config in Okta.png
 
 - PowerShell Script Example:  
   ![PowerShell Script](./screenshots/powershell-script.png)
